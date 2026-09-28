@@ -21,7 +21,7 @@ Turn raw user feedback into structured insights, traceable evidence, and product
 
 将零散的用户反馈转化为结构化问题，并保留结论与原始评论之间的证据关联，帮助发现值得进一步验证的产品问题与机会。
 
-*→ Repository coming soon*
+*→ [View Repository](https://github.com/Jstar-AIPM/ai-user-insight-analyzer)*
 
 ---
 
@@ -35,7 +35,7 @@ Turn video content into AI-ready transcripts for deeper thinking and conversatio
 
 将视频内容转化为可被 AI 使用的文本 Context，让看过的内容更方便地进入后续的讨论、思考与知识沉淀。
 
-*→ Repository coming soon*
+*→ [View Repository](https://github.com/Jstar-AIPM/Link2Transcript)*
 
 ---
 
@@ -49,7 +49,7 @@ Turn the sneakers I've worn into a visual archive of memories.
 
 从学生时代开始，我就喜欢篮球和球鞋。现在，我尝试用 AI 重新画下那些曾经穿过的鞋，把一双鞋和一段成长经历一起保存下来。
 
-*→ Repository coming soon*
+*→ [View Repository](https://github.com/Jstar-AIPM/shoestory)*
 
 ---
 
